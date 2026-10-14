@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.sentinel/
+sentinel.db
+*.sqlite
+.hypothesis/
+runs/
+
+# dashboard (frontend)
+dashboard/node_modules
+dashboard/dist
+bench/out/
+training/data/
+training/eval.json
+*.sarif
+out.sarif

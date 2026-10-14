@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel - Autonomous Codebase Auditor",
+  "description": "Autonomous codebase auditing dashboard for hunting vulnerabilities, verifying exploits, ranking findings, and generating regression fixes.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
